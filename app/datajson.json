@@ -1,0 +1,49 @@
+{
+    "items":[
+        {
+            "img": "img-onix.jpeg", 
+            "name": "Chevrolet Onix 2022", 
+            "type": "Auto economico",
+            "typeAc": "A/C",
+            "transmision": "Manual",
+            "pax": "x2",
+            "price":100.00
+        },
+        {
+            "img": "img-beat.jpeg", 
+            "name": "Chevrolet Beat 2022", 
+            "type": "Auto economico",
+            "typeAc": "A/C",
+            "transmision": "Automatico",
+            "pax": "x2",
+            "price":130.00
+        },
+        {
+            "img": "img-gol.jpeg", 
+            "name": "VW Gol 2019", 
+            "type": "Auto economico",
+            "typeAc": "A/C",
+            "transmision": "Automatico",
+            "pax": "x2",
+            "price":180.00
+        },
+        {
+            "img": "img-figo.jpeg", 
+            "name": "Ford Figo 2022", 
+            "type": "Auto economico",
+            "typeAc": "A/C",
+            "transmision": "Manual",
+            "pax": "x2",
+            "price":350.00
+        },
+        {
+            "img": "img-versa.webp", 
+            "name": "Nissan Versa 2019", 
+            "type": "Auto economico",
+            "typeAc": "A/C",
+            "transmision": "Manual",
+            "pax": "x2",
+            "price":190.00
+        }
+    ]       
+}
